@@ -1,7 +1,7 @@
 # i-Cart mini
 
-オープンソース移動ロボットプラットフォームi-Cart miniの制作に必要な情報のリポジトリ
-Repository for making the opensource mobile robot platform i-Cart mini
+オープンソース移動ロボットプラットフォームi-Cart miniの制作・使用に必要な情報のリポジトリ
+Repository for making and operating the open source mobile robot platform i-Cart mini
 
 ## パーツリスト (parts list)
 
