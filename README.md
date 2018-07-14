@@ -5,4 +5,4 @@
 Repository for making the opensource mobile robot platform i-Cart mini
 
 
-- [パーツリスト (parts list)](parts-list.csv)
+- [パーツリスト (parts list)](parts_list.csv)
